@@ -1,0 +1,6 @@
+### IntelliJ IDEA ###
+java-solutions/.idea/
+java-solutions/target/
+
+### PyCharm ###
+python-solutions/.idea/
